@@ -6,15 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguy%C3%AAn+%F0%9F%91%8B;Python+%C2%B7+Django+%C2%B7+FastAPI;TypeScript+cho+Frontend+%E2%9A%A1;CI%2FCD+v%E1%BB%9Bi+GitHub+Actions+%F0%9F%9A%80;%C4%90ang+t%C3%ACm+c%C6%A1+h%E1%BB%99i+Backend+Developer" alt="typing" />
 </a>
 
-<br/><br/>
-
-![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-0ea5e9?style=for-the-badge)
-
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-trannguyen08py%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trannguyen08py@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trannguyen08py@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trannguyen08)
 [![Phone](https://img.shields.io/badge/Phone-%2B84%20383041381-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84383041381)
+![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-0ea5e9?style=for-the-badge)
 
 </div>
 
