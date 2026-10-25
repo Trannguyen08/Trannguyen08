@@ -9,8 +9,6 @@
 <br/><br/>
 
 ![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-0ea5e9?style=for-the-badge)
-![Status](https://img.shields.io/badge/💼_Open_to_work-22c55e?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=Trannguyen08&label=Profile%20views&color=8b5cf6&style=for-the-badge)
 
 <br/>
 
