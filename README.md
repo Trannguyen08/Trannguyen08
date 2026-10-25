@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trannguyen08)
 [![Phone](https://img.shields.io/badge/Phone-%2B84%20383041381-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84383041381)
 ![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-0ea5e9?style=for-the-badge)
+<br/>
 📧 [trannguyen08py@gmail.com](mailto:trannguyen08py@gmail.com)
 
 </div>
