@@ -12,52 +12,53 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trannguyen08)
 [![Phone](https://img.shields.io/badge/Phone-%2B84%20383041381-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84383041381)
 ![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-0ea5e9?style=for-the-badge)
+📧 [trannguyen08py@gmail.com](mailto:trannguyen08py@gmail.com)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="" />
 
-## 🧑‍💻 Về mình
+## Về mình
 
-> 💡 *Mình là kỹ sư CNTT mới tốt nghiệp, có nền tảng vững chắc về* ***lập trình Python*** *và* ***phát triển backend***.
+Mình là kỹ sư CNTT mới tốt nghiệp, có nền tảng vững chắc về **lập trình Python** và **phát triển backend**.
 
 |  |  |
 |:--|:--|
-| 🔧 **Đã làm** | Xây dựng **RESTful APIs** và ứng dụng web với **Django**, **FastAPI** |
-| ⚡ **Frontend** | Làm giao diện với **TypeScript** và **JavaScript** |
-| 🚀 **Tự động hóa** | **CI/CD** với **GitHub Actions**, đóng gói và triển khai bằng **Docker** |
-| 🎯 **Mục tiêu** | Trở thành **Python Backend Developer** chuyên nghiệp |
-| 📍 **Vị trí** | TP. Hồ Chí Minh, Việt Nam |
+| **Đã làm** | Xây dựng **RESTful APIs** và ứng dụng web với **Django**, **FastAPI** |
+| **Frontend** | Làm giao diện với **TypeScript** và **JavaScript** |
+| **Tự động hóa** | **CI/CD** với **GitHub Actions**, đóng gói và triển khai bằng **Docker** |
+| **Mục tiêu** | Trở thành **Python Backend Developer** chuyên nghiệp |
+| **Vị trí** | TP. Hồ Chí Minh, Việt Nam |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="" />
 
-## 🛠️ Kỹ năng & Công nghệ
+## Kỹ năng & Công nghệ
 
-### 💻 Ngôn ngữ lập trình
+### Ngôn ngữ lập trình
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🚀 Backend Frameworks
+### Backend Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Cơ sở dữ liệu
+### Cơ sở dữ liệu
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ Công cụ & Nền tảng
+### Công cụ & Nền tảng
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,35 +69,51 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="" />
 
-<!--
-## 📌 Dự án nổi bật
-Bỏ comment mục này sau khi thay REPO_1, REPO_2 bằng tên repo thật của bạn.
+## Dự án nổi bật
 
 <div align="center">
-
-<a href="https://github.com/Trannguyen08/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trannguyen08&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="project 1" />
-</a>
-<a href="https://github.com/Trannguyen08/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trannguyen08&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="project 2" />
-</a>
-
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/Trannguyen08/HCMC-Metro"><b>HCMC-Metro</b></a>
+      <br/><br/>
+      <a href="https://github.com/Trannguyen08/HCMC-Metro"><img src="./view-repo.svg" alt="Xem repo" /></a>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/Trannguyen08/investiq"><b>investiq</b></a>
+      <br/><br/>
+      <a href="https://github.com/Trannguyen08/investiq"><img src="./view-repo.svg" alt="Xem repo" /></a>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/Trannguyen08/Booking-Tutor-System"><b>Booking-Tutor-System</b></a>
+      <br/><br/>
+      <a href="https://github.com/Trannguyen08/Booking-Tutor-System"><img src="./view-repo.svg" alt="Xem repo" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
--->
-
-## 🎓 Học vấn
-
-🏫 **Trường Đại học Giao thông Vận tải** · TP. HCM, Việt Nam<br/>
-📖 **Kỹ sư Công nghệ Thông tin** · GPA **3.4 / 4.0**<br/>
-📅 *Tháng 8, 2023 – Tháng 10, 2026*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="" />
 
-## 📫 Liên hệ với mình
+## Học vấn
+
+**Trường Đại học Giao thông Vận tải** · TP. HCM, Việt Nam<br/>
+**Kỹ sư Công nghệ Thông tin** · GPA **3.4 / 4.0**<br/>
+*Tháng 8, 2023 – Tháng 10, 2026*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="" />
+
+## Liên hệ với mình
 
 <div align="center">
 
-Mình rất vui được kết nối và hợp tác! Hãy liên hệ nếu bạn có dự án thú vị 🚀
+Mình rất vui được kết nối và hợp tác! Hãy liên hệ nếu bạn có dự án thú vị
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trannguyen08py@gmail.com)
 
