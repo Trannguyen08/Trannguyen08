@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Tran%20Chi%20Nguyen&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20%C2%B7%20Recent%20Graduate&descSize=20&descAlignY=58&animation=twinkling" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:1f6feb,100:36bcf7&height=240&section=header&text=Tran%20Chi%20Nguyen&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20%C2%B7%20Recent%20Graduate&descSize=20&descAlignY=58&animation=twinkling" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguy%C3%AAn+%F0%9F%91%8B;Python+%C2%B7+Django+%C2%B7+FastAPI;TypeScript+cho+Frontend+%E2%9A%A1;CI%2FCD+v%E1%BB%9Bi+GitHub+Actions+%F0%9F%9A%80;%C4%90ang+t%C3%ACm+c%C6%A1+h%E1%BB%99i+Backend+Developer" alt="typing" />
@@ -117,6 +117,6 @@ Mình rất vui được kết nối và hợp tác! Hãy liên hệ nếu bạn
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trannguyen08py@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:1f6feb,100:36bcf7&height=120&section=footer&animation=twinkling" alt="footer" />
 
 </div>
